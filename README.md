@@ -1,2 +1,3 @@
 # zero_ao_aplicativoweb
- Mini curso de Python -  Asimov Academy 
+
+Mini curso de Python - Asimov Academy
